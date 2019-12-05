@@ -1,0 +1,19 @@
+export default {
+  products:[
+    {
+      'name':'algo',
+      'description':'algo',
+      'price':120
+    },
+    {
+      'name':'algo',
+      'description':'algo',
+      'price':120
+    },
+    {
+      'name':'algo',
+      'description':'algo',
+      'price':120
+    }
+  ],
+}
